@@ -1,0 +1,16 @@
+{
+  "profile": [
+    {
+      "nama": "Afgan",
+      "usia": 25,
+      "pekerjaan": "Mahasiswa",
+      "id": 1
+    },
+    {
+      "nama": "Bobby",
+      "usia": 23,
+      "pekerjaan": "PNS",
+      "id": 2
+    }
+  ]
+}
